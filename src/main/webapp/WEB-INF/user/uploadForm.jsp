@@ -23,7 +23,7 @@
 <form id="uploadForm">
 	<table border="1">
 		<tr>
-			<th>상품명??</th>
+			<th>상품명</th>
 			<td>
 				<input type="text" name="imageName" id="imageName" size="35">
 				<div id="imageNameDiv"></div>
